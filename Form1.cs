@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 
 namespace BackgroundWorker
-{
+{//test
     public partial class Form1 : Form
     {
         private System.ComponentModel.BackgroundWorker bgwCode;
