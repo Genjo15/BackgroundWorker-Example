@@ -1,0 +1,8 @@
+d:\documents\visual studio 2012\Projects\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+d:\documents\visual studio 2012\Projects\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+d:\documents\visual studio 2012\Projects\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.Form1.resources
+d:\documents\visual studio 2012\Projects\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+d:\documents\visual studio 2012\Projects\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.pdb
